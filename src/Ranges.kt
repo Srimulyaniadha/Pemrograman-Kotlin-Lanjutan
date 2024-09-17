@@ -6,7 +6,7 @@ fun main() {
         println()
 
     if (i in 1..10){ //equivalent of 1 <= i && i <= 10
-        println("we found your number == "+ i)
+        println("we found your number -- "+ i)
 
     }
 }
