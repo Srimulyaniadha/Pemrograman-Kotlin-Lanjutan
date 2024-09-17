@@ -4,59 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e84e1fa-c1da-40a2-99c3-537caa1c08bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PemogramanKotlinLanjutan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Argumen Default Fungsi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array 2 Dimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array List Of.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array Method.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array Multidimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array tipe Primitive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ekspresi Lambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Elvis Operator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For-Loop dalam Kalkulator Eksponensial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For-Loop dalam Tabel Perkalian.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fungsi Ekspresi Tunggal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fungsi dengan nilai kembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fungsi tanpa nilai kembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kalkulator Sederhana Menggunakan Percabangan IF-ELSE IF.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kalkulator Sederhana Menggunakan Percabangan When.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kode Program Fungsi Math.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menggunakan Pair sebagaia nilai kembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menghitung Akar Kuadrat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menghitung Luas dan Keliling Lingkaran.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MutableListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator !!.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pemanggilan yang aman.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pemberian Nilai Null yang diizinkan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pemeriksaan Kondisi Null.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Penanganan Eksepsi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Penerapan While-Loop dalam Kalkulator Sederhana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Penggunaan Break dan Continue pada Sebuah Perulangan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Percabangan kode program 1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Percabangan kode program 2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Perulangan For Loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program Break dan Continue Label pada Perulangan for-loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ranges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Return pada Perulangan for-loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/When.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While dan Do-While Loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pembuatan array berdasarkan template Array standard Kotlin.kt" afterDir="false" />
+    <list default="true" id="7e84e1fa-c1da-40a2-99c3-537caa1c08bb" name="Changes" comment="add mainApp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,66 +34,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Argumen_Default_FungsiKt.executor": "Run",
-    "Kotlin.ArrayMethodKt.executor": "Run",
-    "Kotlin.ArrayOfKt.executor": "Run",
-    "Kotlin.Array_2_DimensiKt.executor": "Run",
-    "Kotlin.Array_List_OfKt.executor": "Run",
-    "Kotlin.Array_MethodKt.executor": "Run",
-    "Kotlin.Array_MultidimensiKt.executor": "Run",
-    "Kotlin.Array_tipe_PrimitiveKt.executor": "Run",
-    "Kotlin.ArraytipePrimitiveKt.executor": "Run",
-    "Kotlin.CollectionsKt.executor": "Run",
-    "Kotlin.Ekspresi_LambdaKt.executor": "Run",
-    "Kotlin.Elvis_OperatorKt.executor": "Run",
-    "Kotlin.For_Loop_dalam_Kalkulator_EksponensialKt.executor": "Run",
-    "Kotlin.For_Loop_dalam_Tabel_PerkalianKt.executor": "Run",
-    "Kotlin.Fungsi_Ekspresi_TunggalKt.executor": "Run",
-    "Kotlin.Fungsi_dengan_nilai_kembaliKt.executor": "Run",
-    "Kotlin.Fungsi_tanpa_nilai_kembaliKt.executor": "Run",
-    "Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_IF_ELSE_IFKt.executor": "Run",
-    "Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt.executor": "Run",
-    "Kotlin.Kode_Program_Fungsi_MathKt.executor": "Run",
-    "Kotlin.ListOfKt.executor": "Run",
-    "Kotlin.MapKt.executor": "Run",
-    "Kotlin.Menggunakan_Pair_sebagaia_nilai_kembaliKt.executor": "Run",
-    "Kotlin.Menghitung_Akar_KuadratKt.executor": "Run",
-    "Kotlin.Menghitung_Luas_dan_Keliling_LingkaranKt.executor": "Run",
-    "Kotlin.MutableListOfKt.executor": "Run",
-    "Kotlin.Operator___Kt.executor": "Run",
-    "Kotlin.Pemanggilan_yang_amanKt.executor": "Run",
-    "Kotlin.Pemberian_Nilai_Null_yang_diizinkanKt.executor": "Run",
-    "Kotlin.Pembuatan_array_berdasarkan_template_Array_standard_KotlinKt.executor": "Run",
-    "Kotlin.Pemeriksaan_Kondisi_NullKt.executor": "Run",
-    "Kotlin.Penanganan_EksepsiKt.executor": "Run",
-    "Kotlin.Penerapan_While_Loop_dalam_Kalkulator_SederhanaKt.executor": "Run",
-    "Kotlin.Penggunaan_Break_dan_Continue_pada_Sebuah_PerulanganKt.executor": "Run",
-    "Kotlin.Percabangan_kode_program_1Kt.executor": "Run",
-    "Kotlin.Percabangan_kode_program_2Kt.executor": "Run",
-    "Kotlin.Perulangan_For_LoopKt.executor": "Run",
-    "Kotlin.Program_Break_dan_Continue_Label_pada_Perulangan_for_loopKt.executor": "Run",
-    "Kotlin.RangesKt.executor": "Run",
-    "Kotlin.Return_pada_Perulangan_for_loopKt.executor": "Run",
-    "Kotlin.SetKt.executor": "Run",
-    "Kotlin.WhenKt.executor": "Run",
-    "Kotlin.While_dan_Do_While_LoopKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/jajat/IdeaProjects/PemogramanKotlinLanjutan/src/Main.kt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Argumen_Default_FungsiKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArrayMethodKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArrayOfKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Array_2_DimensiKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Array_List_OfKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Array_MethodKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Array_MultidimensiKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Array_tipe_PrimitiveKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ArraytipePrimitiveKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CollectionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ekspresi_LambdaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Elvis_OperatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.For_Loop_dalam_Kalkulator_EksponensialKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.For_Loop_dalam_Tabel_PerkalianKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Fungsi_Ekspresi_TunggalKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Fungsi_dengan_nilai_kembaliKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Fungsi_tanpa_nilai_kembaliKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_IF_ELSE_IFKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Kode_Program_Fungsi_MathKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListOfKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MapKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Menggunakan_Pair_sebagaia_nilai_kembaliKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Menghitung_Akar_KuadratKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Menghitung_Luas_dan_Keliling_LingkaranKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MutableListOfKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Operator___Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Pemanggilan_yang_amanKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Pemberian_Nilai_Null_yang_diizinkanKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Pembuatan_array_berdasarkan_template_Array_standard_KotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Pemeriksaan_Kondisi_NullKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Penanganan_EksepsiKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Penerapan_While_Loop_dalam_Kalkulator_SederhanaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Penggunaan_Break_dan_Continue_pada_Sebuah_PerulanganKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Percabangan_kode_program_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Percabangan_kode_program_2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Perulangan_For_LoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Program_Break_dan_Continue_Label_pada_Perulangan_for_loopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RangesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Return_pada_Perulangan_for_loopKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhenKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.While_dan_Do_While_LoopKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/jajat/IdeaProjects/PemogramanKotlinLanjutan/src/Main.kt&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.Pembuatan_array_berdasarkan_template_Array_standard_KotlinKt">
-    <configuration name="Argumen_Default_FungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Argumen_Default_FungsiKt" />
-      <module name="PemogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Kotlin.Null_SafetyKt">
     <configuration name="ArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayOfKt" />
       <module name="PemogramanKotlinLanjutan" />
@@ -152,15 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ekspresi_LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ekspresi_LambdaKt" />
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
       <module name="PemogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fungsi_Ekspresi_TunggalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fungsi_Ekspresi_TunggalKt" />
+    <configuration name="For_Loop_dalam_Tabel_PerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_Loop_dalam_Tabel_PerkalianKt" />
+      <module name="PemogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Null_SafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Null_SafetyKt" />
       <module name="PemogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Null_SafetyKt" />
+        <item itemvalue="Kotlin.For_Loop_dalam_Tabel_PerkalianKt" />
+        <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.Pembuatan_array_berdasarkan_template_Array_standard_KotlinKt" />
         <item itemvalue="Kotlin.ArrayOfKt" />
-        <item itemvalue="Kotlin.Ekspresi_LambdaKt" />
-        <item itemvalue="Kotlin.Fungsi_Ekspresi_TunggalKt" />
-        <item itemvalue="Kotlin.Argumen_Default_FungsiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +141,37 @@
       <option name="presentableId" value="Default" />
       <updated>1725939476799</updated>
     </task>
+    <task id="LOCAL-00001" summary="starter project">
+      <option name="closed" value="true" />
+      <created>1726536361513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726536361513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add mainApp">
+      <option name="closed" value="true" />
+      <created>1726536428979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726536428979</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add mainApp">
+      <option name="closed" value="true" />
+      <created>1726583637032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726583637032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starter project" />
+    <MESSAGE value="add mainApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mainApp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
